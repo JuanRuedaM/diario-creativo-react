@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/diario-creativo-react/static/css/main.1cb29c4f.css",
+    "main.js": "/diario-creativo-react/static/js/main.9ba79bfe.js",
+    "static/media/dog.jpg": "/diario-creativo-react/static/media/dog.5cca70c05c84e8ce8150.jpg",
+    "static/media/cascada.jpg": "/diario-creativo-react/static/media/cascada.acb57e66f34dec405e12.jpg",
+    "static/media/nov14.jpg": "/diario-creativo-react/static/media/nov14.fdde9dfe5cda2a3d402e.jpg",
+    "static/media/nov18.png": "/diario-creativo-react/static/media/nov18.93526aff503c372f2835.png",
+    "static/media/nov16.png": "/diario-creativo-react/static/media/nov16.59e50fe78a9f6cfa6b71.png",
+    "static/media/nov21.png": "/diario-creativo-react/static/media/nov21.c8c9b894111592dd5493.png",
+    "static/media/filo.jpg": "/diario-creativo-react/static/media/filo.efada69199d30a7fbf39.jpg",
+    "static/media/nov24.png": "/diario-creativo-react/static/media/nov24.6b060f61f539978bed40.png",
+    "static/media/nov15.png": "/diario-creativo-react/static/media/nov15.644583b198e4993aed5c.png",
+    "static/media/balcon.jpg": "/diario-creativo-react/static/media/balcon.3b90a658232ed81b8b1c.jpg",
+    "static/media/nov19.JPG": "/diario-creativo-react/static/media/nov19.b4f1132acc8c9eb1f979.JPG",
+    "static/media/nov20.JPG": "/diario-creativo-react/static/media/nov20.beaadfe045dda8810aa4.JPG",
+    "static/media/nov17.JPG": "/diario-creativo-react/static/media/nov17.c6d0667f555b06a6952a.JPG",
+    "static/media/nov22.JPG": "/diario-creativo-react/static/media/nov22.24fabf6c9b014a09699d.JPG",
+    "static/media/montain.jpg": "/diario-creativo-react/static/media/montain.983e6c503633652748fb.jpg",
+    "static/media/earth.jpg": "/diario-creativo-react/static/media/earth.47c83fa5387512f1d6f5.jpg",
+    "static/media/nov23.JPG": "/diario-creativo-react/static/media/nov23.fbbf312b4d076d1fe0a2.JPG",
+    "static/media/tiger.jpg": "/diario-creativo-react/static/media/tiger.f7730b6f266cdf8f7558.jpg",
+    "static/media/paisage.jpg": "/diario-creativo-react/static/media/paisage.fe4ee25d47ead3d938cc.jpg",
+    "index.html": "/diario-creativo-react/index.html",
+    "main.1cb29c4f.css.map": "/diario-creativo-react/static/css/main.1cb29c4f.css.map",
+    "main.9ba79bfe.js.map": "/diario-creativo-react/static/js/main.9ba79bfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cb29c4f.css",
+    "static/js/main.9ba79bfe.js"
+  ]
+}
