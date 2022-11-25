@@ -1,38 +1,119 @@
-.App {
+.container{
+  color: black;
+}
+
+@media screen and (min-width: 551px) {
+  .banner{
+    background-size: 40% 100%;
+  }
+  .bubbles span{
+    width: 20px;
+    height: 20px;
+  }
+  .container{
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .banner{
+    background-size: 120% 100%;
+  }
+  .bubbles span{
+    width: 20px;
+    height: 5px;
+  }
+}
+.banner{
+  width: 100%;
+  height: 600px;
+  animation: banner 10s infinite linear alternate;
+  background-position: center;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  margin-top: -20px;
+  margin-bottom: 25px;
+}
+
+@keyframes banner{
+  0%, 20%{
+    background-image: url(./assets/portada/balcon.jpg);
+  }
+  25%, 45%{
+    background-image: url(./assets/portada/cascada.jpg);
+  }
+  50%, 70%{
+    background-image: url(./assets/portada/filo.jpg);
+  }
+  75%, 100%{
+    background-image: url(./assets/portada/dog.jpg);
+  }
+}
+.capa{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgb(0,0,0);
+  background: linear-gradient(180deg, rgba(0,0,0,0.3038165949973739) 0%, rgba(32,32,32,1) 100%);
+}
+.info{
+  z-index: 1;
+  max-width: 550px;
+  width: 100%;
   text-align: center;
 }
+.info h1{
+  color: rgb(255, 255, 255);
+  font-size: 70px;
+  margin-bottom: 0px;
+  letter-spacing: 1px;
+  font-family: 'Rubik Glitch', cursive;
+  text-shadow: 10px 5px 10px rgb(0, 0, 0);
+}
+.info p {
+  color: #c7c7c7;
+  line-height: 1.7;
+  font-family: 'Rubik Glitch', cursive;
+  text-shadow: 1px 5px 1px rgb(0, 0, 0);
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+
+.bubbles{
+  position: relative;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+}
+.bubbles span{
+  position: relative;
+  background: #4fc3dc;
+  margin: 0 4px; 
+  border-radius: 100%;
+  box-shadow: 0 0 0 10px #4fc3dc44,
+  0 0 50px #4fc3dc,
+  0 0 100px #4fc3dc;
+  animation: animate 15s linear infinite;
+  animation-duration: calc(1000s / var(--i));
+}
+.bubbles span:nth-child(even){
+  background: #ff2d75;
+  box-shadow: 0 0 0 10px #ff2d7544,
+  0 0 50px #ff2d75,
+  0 0 100px #ff2d75;
+}
+@keyframes animate{
+  0%{
+    transform: translateY(1510vh) scale(0.1)
+  }
+  100%{
+    transform: translateY(-10vh) scale(0.5)
+  }
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
