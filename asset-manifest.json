@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/diario-creativo-react/static/css/main.1cb29c4f.css",
+    "main.css": "/diario-creativo-react/static/css/main.38461134.css",
     "main.js": "/diario-creativo-react/static/js/main.d092f0e1.js",
     "static/media/dic3.PNG": "/diario-creativo-react/static/media/dic3.77cd110c90bea62694a2.PNG",
     "static/media/dog.jpg": "/diario-creativo-react/static/media/dog.5cca70c05c84e8ce8150.jpg",
@@ -30,11 +30,11 @@
     "static/media/tiger.jpg": "/diario-creativo-react/static/media/tiger.f7730b6f266cdf8f7558.jpg",
     "static/media/paisage.jpg": "/diario-creativo-react/static/media/paisage.fe4ee25d47ead3d938cc.jpg",
     "index.html": "/diario-creativo-react/index.html",
-    "main.1cb29c4f.css.map": "/diario-creativo-react/static/css/main.1cb29c4f.css.map",
+    "main.38461134.css.map": "/diario-creativo-react/static/css/main.38461134.css.map",
     "main.d092f0e1.js.map": "/diario-creativo-react/static/js/main.d092f0e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cb29c4f.css",
+    "static/css/main.38461134.css",
     "static/js/main.d092f0e1.js"
   ]
 }
