@@ -1,20 +1,28 @@
 {
   "files": {
     "main.css": "/diario-creativo-react/static/css/main.1cb29c4f.css",
-    "main.js": "/diario-creativo-react/static/js/main.9ba79bfe.js",
+    "main.js": "/diario-creativo-react/static/js/main.d092f0e1.js",
+    "static/media/dic3.PNG": "/diario-creativo-react/static/media/dic3.77cd110c90bea62694a2.PNG",
     "static/media/dog.jpg": "/diario-creativo-react/static/media/dog.5cca70c05c84e8ce8150.jpg",
     "static/media/cascada.jpg": "/diario-creativo-react/static/media/cascada.acb57e66f34dec405e12.jpg",
+    "static/media/dic10.PNG": "/diario-creativo-react/static/media/dic10.b7413ee2e17bf14dbc08.PNG",
     "static/media/nov14.jpg": "/diario-creativo-react/static/media/nov14.fdde9dfe5cda2a3d402e.jpg",
     "static/media/nov18.png": "/diario-creativo-react/static/media/nov18.93526aff503c372f2835.png",
+    "static/media/dic8.JPG": "/diario-creativo-react/static/media/dic8.8095b27762dec973a8cb.JPG",
     "static/media/nov16.png": "/diario-creativo-react/static/media/nov16.59e50fe78a9f6cfa6b71.png",
     "static/media/nov21.png": "/diario-creativo-react/static/media/nov21.c8c9b894111592dd5493.png",
     "static/media/filo.jpg": "/diario-creativo-react/static/media/filo.efada69199d30a7fbf39.jpg",
     "static/media/nov24.png": "/diario-creativo-react/static/media/nov24.6b060f61f539978bed40.png",
     "static/media/nov15.png": "/diario-creativo-react/static/media/nov15.644583b198e4993aed5c.png",
+    "static/media/dic5.JPG": "/diario-creativo-react/static/media/dic5.09c3851f7ac14018e78e.JPG",
     "static/media/balcon.jpg": "/diario-creativo-react/static/media/balcon.3b90a658232ed81b8b1c.jpg",
     "static/media/nov19.JPG": "/diario-creativo-react/static/media/nov19.b4f1132acc8c9eb1f979.JPG",
+    "static/media/nov29.JPG": "/diario-creativo-react/static/media/nov29.a097715ca183b176fb48.JPG",
+    "static/media/nov27.JPG": "/diario-creativo-react/static/media/nov27.d9c3a810d1b5ae7d7429.JPG",
     "static/media/nov20.JPG": "/diario-creativo-react/static/media/nov20.beaadfe045dda8810aa4.JPG",
     "static/media/nov17.JPG": "/diario-creativo-react/static/media/nov17.c6d0667f555b06a6952a.JPG",
+    "static/media/dic1.JPG": "/diario-creativo-react/static/media/dic1.8027cc679dd29816264b.JPG",
+    "static/media/nov25.JPG": "/diario-creativo-react/static/media/nov25.2575d99cc0fbb10663cb.JPG",
     "static/media/nov22.JPG": "/diario-creativo-react/static/media/nov22.24fabf6c9b014a09699d.JPG",
     "static/media/montain.jpg": "/diario-creativo-react/static/media/montain.983e6c503633652748fb.jpg",
     "static/media/earth.jpg": "/diario-creativo-react/static/media/earth.47c83fa5387512f1d6f5.jpg",
@@ -23,10 +31,10 @@
     "static/media/paisage.jpg": "/diario-creativo-react/static/media/paisage.fe4ee25d47ead3d938cc.jpg",
     "index.html": "/diario-creativo-react/index.html",
     "main.1cb29c4f.css.map": "/diario-creativo-react/static/css/main.1cb29c4f.css.map",
-    "main.9ba79bfe.js.map": "/diario-creativo-react/static/js/main.9ba79bfe.js.map"
+    "main.d092f0e1.js.map": "/diario-creativo-react/static/js/main.d092f0e1.js.map"
   },
   "entrypoints": [
     "static/css/main.1cb29c4f.css",
-    "static/js/main.9ba79bfe.js"
+    "static/js/main.d092f0e1.js"
   ]
 }
