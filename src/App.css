@@ -109,7 +109,7 @@
 }
 @keyframes animate{
   0%{
-    transform: translateY(1510vh) scale(0.1)
+    transform: translateY(2200vh) scale(0.5)
   }
   100%{
     transform: translateY(-10vh) scale(0.5)
