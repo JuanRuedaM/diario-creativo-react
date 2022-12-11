@@ -4,7 +4,7 @@ import './App.css';
 
 const App = () => {
   return <>
-    {<div className='bubbles'>
+    <div className='bubbles'>
       <span style={{ "--i": 10 }} />
       <span style={{ "--i": 12 }} />
       <span style={{ "--i": 24 }} />
@@ -67,7 +67,7 @@ const App = () => {
       <span style={{ "--i": 17 }} />
       <span style={{ "--i": 13 }} />
       <span style={{ "--i": 28 }} /> 
-    </div>}
+    </div>
 
     <div className='banner'>
       <div className='capa' />

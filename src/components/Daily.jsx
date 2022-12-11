@@ -7,12 +7,6 @@ let diasLenght = Object.keys(dias).length
 
 const Daily = ({ }) => {
 
-  /* if (content = undefined) {
-    console.log('hello')
-  } else {
-    console.log('bye')
-  } */
-
   return <div className='d-flex justify-content-center flex-column col-sm-7'>
     <Card props={dias.primero} />
     <Card props={dias.segundo} />
@@ -25,6 +19,14 @@ const Daily = ({ }) => {
     <Card props={dias.noveno} />
     <Card props={dias.decimo} />
     <Card props={dias.once} />
+    <Card props={dias.doce} />
+    <Card props={dias.trece} />
+    <Card props={dias.catorce} />
+    <Card props={dias.quince} />
+    <Card props={dias.dieciseis} />
+    <Card props={dias.diecisiete} />
+    <Card props={dias.dieciocho} />
+    <Card props={dias.diecinueve} />
   </div>
 }
 
